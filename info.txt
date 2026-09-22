@@ -1,3 +1,3 @@
-Nom : 
-Prénom : 
-github_login : 
+Nom : Cornillet et Naberes
+Prénom : Philomène et Diane
+github_login : philomenc et Dianenab
